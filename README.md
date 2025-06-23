@@ -8,3 +8,15 @@ and add categories , product. You can challenge after you finish the course.
 Check out [LIVE DEMO](https://hivetechwearbackend.onrender.com) here!!
 
 [Screenshot 2025-06-22 231842](https://github.com/user-attachments/assets/62823117-1918-449d-a99d-6ae370d418a1)
+
+## Tech used
+```
+* Html
+* Css
+* Bootstrap
+* Javascript / JQuery
+* Django
+* Cloudinary (To host uploaded images on CDN)
+```
+
+
